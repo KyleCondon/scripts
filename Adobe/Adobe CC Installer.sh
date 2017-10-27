@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 CD_APP="/Library/PCPS/apps/CocoaDialog.app/Contents/MacOS/CocoaDialog"
 JAMF="/usr/local/bin/jamf"
 Dockutil="/usr/local/bin/dockutil"
